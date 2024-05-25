@@ -1,6 +1,6 @@
 - 👀 I have a strong interest in mastering full-stack web development, delving deep into UI/UX design, and maintaining a commitment to continuous learning within the tech sphere.
 - 🌱 At the moment, I am deeply engrossed in the study of advanced React concepts, honing my skills in backend development with Java, and intensively refining my design abilities using Figma.
 - 💞️ I am actively seeking opportunities to collaborate on open-source projects that are closely tied to web development or design.
-- 📫 You can get in touch with me via email at [your_email@example.com](mailto:your_email@example.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter]
+- 📫 You can get in touch with me via email at vishwaskatiyar90@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I derive great joy from experimenting with novel frameworks and technologies, a practice that not only enriches my development skills but also keeps me abreast of industry trends and developments.
